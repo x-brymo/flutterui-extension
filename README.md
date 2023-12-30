@@ -1,4 +1,4 @@
-# flutterui README
+# Flutter Ui 
 
 This is the README for your extension "flutterui". After writing up a brief description, we recommend including the following sections.
 
@@ -21,7 +21,6 @@ If you have any requirements or dependencies, add a section describing those and
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
 For example:
-
 This extension contributes the following settings:
 
 * `myExtension.enable`: Enable/disable this extension.
@@ -29,21 +28,31 @@ This extension contributes the following settings:
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Calling out known issues can help unlimit users opening duplicate issues against your extension.
 
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+## Run Locally  
 
-Initial release of ...
+Clone the project  
 
-### 1.0.1
+~~~bash  
+  git clone https://github.com/x-brymo/flutterui-extension
+~~~
 
-Fixed issue #.
+Go to the project directory  
 
-### 1.1.0
+~~~bash  
+  cd my-project
+~~~
+
+Install dependencies  
+
+~~~bash  
+npm i flutterui
+~~~
 
 Added features X, Y, and Z.
 
